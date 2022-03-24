@@ -1,0 +1,8 @@
+PUT http://localhost:3000/api/book/update/1
+Content-Type: application/json
+
+{
+  "name": "new book",
+  "description":"desription book new",
+  "idBook":1
+}

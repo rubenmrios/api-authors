@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/book/save
+Content-Type: application/json
+
+{
+  "name": "new book",
+  "description":"new description",
+  "id":1
+}
