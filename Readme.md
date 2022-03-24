@@ -23,6 +23,18 @@ Instalar node_modules
 
 - npm install
 
+Crear un .env en la carpeta src con estas variables
+# PORTS
+PORT = 
+
+
+#MYSQL
+MYSQL_HOST = 
+MYSQL_USERNAME = 
+MYSQL_PASSWORD = 
+MYSQL_DATABASE = 
+MYSQL_PORT = 
+
 Ejecuta la app en modo desarrollador
 
 - npm run dev
